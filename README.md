@@ -1,5 +1,8 @@
 # Amazon-India-Dashboard
 
+<img width="480" height="175" alt="AmazonBrandGIFbyDr Baby" src="https://github.com/user-attachments/assets/9d8e41cb-7415-4c76-af53-acbd75bc39ae" />
+
+
 *Business requirements:*
 
 The main objective of this project is to design a simple and easy-to-understand management dashboard for Manoj to
