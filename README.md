@@ -20,8 +20,10 @@ decision-making.
 
 
 **1) Overall Sales & Profit Performance**
+
 *Business Question:*
 How is the business performing overall?
+
 *Dashboard should show:*
 -Total Sales
 -Total Profit
@@ -30,24 +32,30 @@ How is the business performing overall?
 -Average Order Value
 -Profit Margin %
 -Monthly Sales & Profit Trend
+
 *Expected Insight:*
 Manoj can quickly understand whether sales and profitability are improving or declining over time.
 
 
 **2) Category & Product Performance**
+
 *Business Question:*
 Which products and categories are driving the business?
+
 *Dashboard should show:*
 -Category-wise Sales
 -Category-wise Profit
 -Category-wise Units Sold
 -Top 10 Products by Sales
+
 *Expected Insight:*
 Manoj can identify high-performing categories/products and products that may need attention.
 
 **3) Order Status & Revenue Loss**
+
 *Business Question:*
 How many orders are successfully completed and how many are being lost?
+
 *Dashboard should show:*
 -Delivered Orders
 -Shipped Orders
@@ -56,22 +64,27 @@ How many orders are successfully completed and how many are being lost?
 -Return Rate %
 -Cancellation Rate %
 -Category-wise Returns & Cancellations
+
 *Expected Insight:*
 Manoj can understand the impact of returns and cancellations on overall business performance.
 
-**3) Order Status & Revenue Loss**
+**4) Payment, Fulfillment & Geographic Performance**
+
 *Business Question:*
-How many orders are successfully completed and how many are being lost?
+Which payment methods, fulfillment methods and states are generating business?
+
 *Dashboard should show:*
--Delivered Orders
--Shipped Orders
--Returned Orders
--Cancelled Orders
--Return Rate %
--Cancellation Rate %
--Category-wise Returns & Cancellations
+-Sales by Payment Method
+-Profit by Payment Method
+-Sales by Fulfillment Method
+-Profit by Fulfillment Method
+-State-wise Sales
+-State-wise Profit
+-State-wise Orders
+
 *Expected Insight:*
-Manoj can understand the impact of returns and cancellations on overall business performance.
+Manoj can identify important markets and understand how different payment and fulfillment channels contribute to business
+performance.
 
 <img width="800" height="600" alt="amazonGIF" src="https://github.com/user-attachments/assets/5cdb2457-4b8a-4be8-a271-ce908cd47895" />
-<img width="480" height="175" alt="AmazonBrandGIFbyDr Baby" src="https://github.com/user-attachments/assets/3a89440c-f6c8-49d3-8456-5b9f8d0d6346" />
+                              <img width="480" height="175" alt="AmazonBrandGIFbyDr Baby" src="https://github.com/user-attachments/assets/3a89440c-f6c8-49d3-8456-5b9f8d0d6346" />
