@@ -1,6 +1,7 @@
 # Amazon-India-Dashboard
 
 *Business requirements:*
+
 The main objective of this project is to design a simple and easy-to-understand management dashboard for Manoj to
 submit to his manager, Ravi, who comes from a non-technical background.
 The dashboard will provide a clear overview of Sales, Profit, Products, Orders, Customer Order Status, Payment,
