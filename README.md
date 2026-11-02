@@ -24,7 +24,7 @@ decision-making.
 *Business Question:
 How is the business performing overall?*
 
-*Dashboard should show:*
+**Dashboard should show:*
 
 -Total Sales
 
