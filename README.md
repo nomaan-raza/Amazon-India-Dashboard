@@ -66,7 +66,6 @@ Which products and categories are driving the business?*
 
 **3) Order Status & Revenue Loss**
 
-*
 *Business Question:
 How many orders are successfully completed and how many are being lost?*
 
