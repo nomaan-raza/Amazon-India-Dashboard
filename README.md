@@ -50,7 +50,7 @@ How is the business performing overall?*
 *Business Question:
 Which products and categories are driving the business?*
 
-*Dashboard should show:*
+**Dashboard should show:*
 
 -Category-wise Sales
 
@@ -66,10 +66,11 @@ Which products and categories are driving the business?*
 
 **3) Order Status & Revenue Loss**
 
+*
 *Business Question:
 How many orders are successfully completed and how many are being lost?*
 
-*Dashboard should show:*
+**Dashboard should show:*
 
 -Delivered Orders
 
@@ -94,7 +95,7 @@ How many orders are successfully completed and how many are being lost?*
 *Business Question:
 Which payment methods, fulfillment methods and states are generating business?*
 
-*Dashboard should show:*
+**Dashboard should show:*
 
 -Sales by Payment Method
 
